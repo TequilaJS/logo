@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3662"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="usingMaterialPalette.svg">
+  <defs
+     id="defs3664" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="3851.5644"
+     inkscape:cy="-6467.5524"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3667">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4127"
+       sodipodi:cx="12.503053"
+       sodipodi:cy="20894.707"
+       sodipodi:rx="470.9483"
+       sodipodi:ry="470.9483"
+       d="m 483.45136,20894.707 a 470.9483,470.9483 0 1 1 -941.89661,0 470.9483,470.9483 0 1 1 941.89661,0 z"
+       transform="matrix(1.5221239,0,0,1.5221239,-2247.9833,-32326.935)"
+       inkscape:export-filename="C:\Users\Ackzell\Documents\TequilaJS\logo_circle.png"
+       inkscape:export-xdpi="56.5"
+       inkscape:export-ydpi="56.5" />
+    <g
+       transform="translate(-4784.4879,-20427.619)"
+       id="g4098">
+      <g
+         style="fill:#000000"
+         id="g4100"
+         transform="matrix(2.1625257,0,0,2.1625257,8718.2645,6420.7147)">
+        <path
+           inkscape:transform-center-y="-47.909545"
+           inkscape:transform-center-x="-128.2142"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4102"
+           d="m -2602.6029,6193.7331 -169.1243,82.8204 -85.2399,41.7573 -1.1136,-84.9905 z"
+           style="fill:#216778;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2857.396,5916.8565 0,283.3705 0,118.0473 -50.9183,-118.0473 z"
+           id="path4104"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="36.346901"
+           inkscape:transform-center-y="-286.54321" />
+        <path
+           style="fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2682.9226,6090.4485 -118.7262,163.8566 -55.3183,33.4998 0,-105.0933 z"
+           id="path4107"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-83.964459"
+           inkscape:transform-center-y="-99.551859" />
+        <path
+           style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -3115.4598,6193.7331 258.4927,124.5777 -3.0149,-84.9905 z"
+           id="path4109"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:transform-center-x="128.2142"
+           inkscape:transform-center-y="-47.909545" />
+        <path
+           inkscape:transform-center-y="-99.551859"
+           inkscape:transform-center-x="83.964459"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4112"
+           d="m -3035.1401,6090.4485 123.835,163.8566 54.338,33.4998 0,-105.0933 z"
+           style="fill:#216778;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-286.54321"
+           inkscape:transform-center-x="-36.3469"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4114"
+           d="m -2857.396,5916.8565 0,283.3705 0.4289,118.0838 50.4894,-118.0838 z"
+           style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+      <g
+         id="g4116"
+         transform="matrix(1.0991281,0,0,1.0991281,7257.9079,15937.262)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4118"
+           y="4018.8887"
+           x="-4797.2603"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5fbcd3;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+           xml:space="preserve"><tspan
+             y="4018.8887"
+             x="-4797.2603"
+             id="tspan4120"
+             sodipodi:role="line">Tequila</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#164450;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+           x="-4005.3772"
+           y="4018.8887"
+           id="text4122"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4124"
+             x="-4005.3772"
+             y="4018.8887">JS</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(-5894.4773,-18765.213)"
+       id="g4098-3">
+      <g
+         style="fill:#000000"
+         id="g4100-6"
+         transform="matrix(2.1625257,0,0,2.1625257,8718.2645,6420.7147)">
+        <path
+           inkscape:transform-center-y="-47.909545"
+           inkscape:transform-center-x="-128.2142"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4102-6"
+           d="m -2602.6029,6193.7331 -169.1243,82.8204 -85.2399,41.7573 -1.1136,-84.9905 z"
+           style="fill:#216778;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2857.396,5916.8565 0,283.3705 0,118.0473 -50.9183,-118.0473 z"
+           id="path4104-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="36.346901"
+           inkscape:transform-center-y="-286.54321" />
+        <path
+           style="fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2682.9226,6090.4485 -118.7262,163.8566 -55.3183,33.4998 0,-105.0933 z"
+           id="path4107-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-83.964459"
+           inkscape:transform-center-y="-99.551859" />
+        <path
+           style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -3115.4598,6193.7331 258.4927,124.5777 -3.0149,-84.9905 z"
+           id="path4109-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:transform-center-x="128.2142"
+           inkscape:transform-center-y="-47.909545" />
+        <path
+           inkscape:transform-center-y="-99.551859"
+           inkscape:transform-center-x="83.964459"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4112-0"
+           d="m -3035.1401,6090.4485 123.835,163.8566 54.338,33.4998 0,-105.0933 z"
+           style="fill:#216778;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-286.54321"
+           inkscape:transform-center-x="-36.3469"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4114-5"
+           d="m -2857.396,5916.8565 0,283.3705 0.4289,118.0838 50.4894,-118.0838 z"
+           style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+      <g
+         id="g4116-1"
+         transform="matrix(1.0991281,0,0,1.0991281,7257.9079,15937.262)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4118-2"
+           y="4018.8887"
+           x="-4797.2603"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5fbcd3;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+           xml:space="preserve"><tspan
+             y="4018.8887"
+             x="-4797.2603"
+             id="tspan4120-5"
+             sodipodi:role="line">Tequila</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#164450;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+           x="-4005.3772"
+           y="4018.8887"
+           id="text4122-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4124-8"
+             x="-4005.3772"
+             y="4018.8887">JS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3841"
+       transform="translate(-4498.2019,-18764.914)"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logoTeal.png"
+       inkscape:export-xdpi="64.919998"
+       inkscape:export-ydpi="64.919998">
+      <g
+         transform="matrix(2.1625257,0,0,2.1625257,8718.2645,6420.7147)"
+         id="g3843"
+         style="fill:#000000">
+        <path
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2602.6029,6193.7331 -169.1243,82.8204 -85.2399,41.7573 -1.1136,-84.9905 z"
+           id="path3845"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-128.2142"
+           inkscape:transform-center-y="-47.909545" />
+        <path
+           inkscape:transform-center-y="-286.54321"
+           inkscape:transform-center-x="36.346901"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3847"
+           d="m -2857.396,5916.8565 0,283.3705 0,118.0473 -50.9183,-118.0473 z"
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-99.551859"
+           inkscape:transform-center-x="-83.964459"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3849"
+           d="m -2682.9226,6090.4485 -118.7262,163.8566 -55.3183,33.4998 0,-105.0933 z"
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-47.909545"
+           inkscape:transform-center-x="128.2142"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path3851"
+           d="m -3115.4598,6193.7331 258.4927,124.5777 -3.0149,-84.9905 z"
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -3035.1401,6090.4485 123.835,163.8566 54.338,33.4998 0,-105.0933 z"
+           id="path3853"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="83.964459"
+           inkscape:transform-center-y="-99.551859" />
+        <path
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2857.396,5916.8565 0,283.3705 0.4289,118.0838 50.4894,-118.0838 z"
+           id="path3855"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-36.3469"
+           inkscape:transform-center-y="-286.54321" />
+      </g>
+      <g
+         transform="matrix(1.0991281,0,0,1.0991281,7257.9079,15937.262)"
+         id="g3857"
+         style="fill:#009688;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:259.18682861000002049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#009688;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+           x="-4797.2603"
+           y="4018.8887"
+           id="text3859"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3861"
+             x="-4797.2603"
+             y="4018.8887">Tequila</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3863"
+           y="4018.8887"
+           x="-4005.3772"
+           style="font-size:259.18682861000002049px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#004d40;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+           xml:space="preserve"><tspan
+             y="4018.8887"
+             x="-4005.3772"
+             id="tspan3865"
+             sodipodi:role="line">JS</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#004d40;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3867"
+       width="436.38589"
+       height="404.061"
+       x="-957.5838"
+       y="761.99213" />
+    <rect
+       y="1246.8654"
+       x="-953.54315"
+       height="404.061"
+       width="436.38589"
+       id="rect3869"
+       style="fill:#009688;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#00695c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3871"
+       width="436.38589"
+       height="404.061"
+       x="-957.5838"
+       y="1731.7385" />
+    <rect
+       y="761.99213"
+       x="-315.12683"
+       height="404.061"
+       width="436.38589"
+       id="rect4641"
+       style="fill:#263238;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="2042.3118"
+       x="-6746.9541"
+       height="1911.2086"
+       width="2876.9146"
+       id="rect4730"
+       style="fill:#000000;fill-opacity:1" />
+    <g
+       id="g4745">
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/C:\Users\Ackzell\Documents\TequilaJS\logo_circleTeal.png"
+         transform="matrix(1.5221239,0,0,1.5221239,-5363.8935,-28873.087)"
+         d="m 483.45136,20894.707 a 470.9483,470.9483 0 1 1 -941.89661,0 470.9483,470.9483 0 1 1 941.89661,0 z"
+         sodipodi:ry="470.9483"
+         sodipodi:rx="470.9483"
+         sodipodi:cy="20894.707"
+         sodipodi:cx="12.503053"
+         id="path4127-3"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <g
+         style="fill:#000000"
+         id="g4100-61"
+         transform="matrix(2.1625257,0,0,2.1625257,817.86642,-10553.056)">
+        <path
+           inkscape:transform-center-y="-47.909545"
+           inkscape:transform-center-x="-128.2142"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4102-9"
+           d="m -2602.6029,6193.7331 -169.1243,82.8204 -85.2399,41.7573 -1.1136,-84.9905 z"
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2857.396,5916.8565 0,283.3705 0,118.0473 -50.9183,-118.0473 z"
+           id="path4104-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="36.346901"
+           inkscape:transform-center-y="-286.54321" />
+        <path
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2682.9226,6090.4485 -118.7262,163.8566 -55.3183,33.4998 0,-105.0933 z"
+           id="path4107-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-83.964459"
+           inkscape:transform-center-y="-99.551859" />
+        <path
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -3115.4598,6193.7331 258.4927,124.5777 -3.0149,-84.9905 z"
+           id="path4109-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:transform-center-x="128.2142"
+           inkscape:transform-center-y="-47.909545" />
+        <path
+           inkscape:transform-center-y="-99.551859"
+           inkscape:transform-center-x="83.964459"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4112-1"
+           d="m -3035.1401,6090.4485 123.835,163.8566 54.338,33.4998 0,-105.0933 z"
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-286.54321"
+           inkscape:transform-center-x="-36.3469"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4114-0"
+           d="m -2857.396,5916.8565 0,283.3705 0.4289,118.0838 50.4894,-118.0838 z"
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+      <g
+         id="g4116-0"
+         transform="matrix(1.0991281,0,0,1.0991281,-642.49018,-1036.509)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4118-29"
+           y="4018.8887"
+           x="-4797.2603"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#009688;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+           xml:space="preserve"><tspan
+             y="4018.8887"
+             x="-4797.2603"
+             id="tspan4120-1"
+             sodipodi:role="line">Tequila</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#004d40;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+           x="-4005.3772"
+           y="4018.8887"
+           id="text4122-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4124-0"
+             x="-4005.3772"
+             y="4018.8887">JS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4760"
+       transform="translate(5268.5714,131.42858)"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleTeal.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4762"
+         sodipodi:cx="12.503053"
+         sodipodi:cy="20894.707"
+         sodipodi:rx="470.9483"
+         sodipodi:ry="470.9483"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         transform="matrix(1.5221239,0,0,1.5221239,-5363.8935,-28873.087)"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/C:\Users\Ackzell\Documents\TequilaJS\logo_circleTeal.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <g
+         transform="matrix(2.1625257,0,0,2.1625257,817.86642,-10553.056)"
+         id="g4764"
+         style="fill:#000000">
+        <path
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2602.6029,6193.7331 -169.1243,82.8204 -85.2399,41.7573 -1.1136,-84.9905 z"
+           id="path4766"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-128.2142"
+           inkscape:transform-center-y="-47.909545" />
+        <path
+           inkscape:transform-center-y="-286.54321"
+           inkscape:transform-center-x="36.346901"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4768"
+           d="m -2857.396,5916.8565 0,283.3705 0,118.0473 -50.9183,-118.0473 z"
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-99.551859"
+           inkscape:transform-center-x="-83.964459"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4770"
+           d="m -2682.9226,6090.4485 -118.7262,163.8566 -55.3183,33.4998 0,-105.0933 z"
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-47.909545"
+           inkscape:transform-center-x="128.2142"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path4772"
+           d="m -3115.4598,6193.7331 258.4927,124.5777 -3.0149,-84.9905 z"
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -3035.1401,6090.4485 123.835,163.8566 54.338,33.4998 0,-105.0933 z"
+           id="path4774"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="83.964459"
+           inkscape:transform-center-y="-99.551859" />
+        <path
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2857.396,5916.8565 0,283.3705 0.4289,118.0838 50.4894,-118.0838 z"
+           id="path4776"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-36.3469"
+           inkscape:transform-center-y="-286.54321" />
+      </g>
+      <g
+         transform="matrix(1.0991281,0,0,1.0991281,-642.49018,-1036.509)"
+         id="g4778">
+        <text
+           xml:space="preserve"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#009688;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+           x="-4797.2603"
+           y="4018.8887"
+           id="text4780"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4782"
+             x="-4797.2603"
+             y="4018.8887">Tequila</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4784"
+           y="4018.8887"
+           x="-4005.3772"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#004d40;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+           xml:space="preserve"><tspan
+             y="4018.8887"
+             x="-4005.3772"
+             id="tspan4786"
+             sodipodi:role="line">JS</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="50.220001"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleTeal_black.png"
+       transform="translate(3091.4285,125.7143)"
+       id="g4788">
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/C:\Users\Ackzell\Documents\TequilaJS\logo_circleTeal.png"
+         transform="matrix(1.5221239,0,0,1.5221239,-5363.8935,-28873.087)"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         sodipodi:ry="470.9483"
+         sodipodi:rx="470.9483"
+         sodipodi:cy="20894.707"
+         sodipodi:cx="12.503053"
+         id="path4790"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <g
+         style="fill:#000000"
+         id="g4792"
+         transform="matrix(2.1625257,0,0,2.1625257,817.86642,-10553.056)">
+        <path
+           inkscape:transform-center-y="-47.909545"
+           inkscape:transform-center-x="-128.2142"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4794"
+           d="m -2602.6029,6193.7331 -169.1243,82.8204 -85.2399,41.7573 -1.1136,-84.9905 z"
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2857.396,5916.8565 0,283.3705 0,118.0473 -50.9183,-118.0473 z"
+           id="path4796"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="36.346901"
+           inkscape:transform-center-y="-286.54321" />
+        <path
+           style="fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2682.9226,6090.4485 -118.7262,163.8566 -55.3183,33.4998 0,-105.0933 z"
+           id="path4798"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-83.964459"
+           inkscape:transform-center-y="-99.551859" />
+        <path
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -3115.4598,6193.7331 258.4927,124.5777 -3.0149,-84.9905 z"
+           id="path4800"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:transform-center-x="128.2142"
+           inkscape:transform-center-y="-47.909545" />
+        <path
+           inkscape:transform-center-y="-99.551859"
+           inkscape:transform-center-x="83.964459"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4802"
+           d="m -3035.1401,6090.4485 123.835,163.8566 54.338,33.4998 0,-105.0933 z"
+           style="fill:#00695c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-286.54321"
+           inkscape:transform-center-x="-36.3469"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4804"
+           d="m -2857.396,5916.8565 0,283.3705 0.4289,118.0838 50.4894,-118.0838 z"
+           style="fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+      <g
+         id="g4806"
+         transform="matrix(1.0991281,0,0,1.0991281,-642.49018,-1036.509)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4808"
+           y="4018.8887"
+           x="-4797.2603"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#009688;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+           xml:space="preserve"><tspan
+             y="4018.8887"
+             x="-4797.2603"
+             id="tspan4810"
+             sodipodi:role="line">Tequila</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#004d40;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+           x="-4005.3772"
+           y="4018.8887"
+           id="text4812"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4814"
+             x="-4005.3772"
+             y="4018.8887">JS</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1"
+       id="rect4888"
+       width="2876.9146"
+       height="1911.2086"
+       x="-6763.1167"
+       y="5985.5171" />
+    <path
+       inkscape:export-ydpi="50.220001"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/C:\Users\Ackzell\Documents\TequilaJS\logo_circleTeal.png"
+       transform="matrix(1.5221239,0,0,1.5221239,-5380.0559,-24929.881)"
+       d="m 483.45136,20894.707 a 470.9483,470.9483 0 1 1 -941.89661,0 470.9483,470.9483 0 1 1 941.89661,0 z"
+       sodipodi:ry="470.9483"
+       sodipodi:rx="470.9483"
+       sodipodi:cy="20894.707"
+       sodipodi:cx="12.503053"
+       id="path4892"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -4826.4917,6784.2566 -365.7356,179.1013 -184.3335,90.3012 -2.4082,-183.7942 z"
+       id="path4896"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-128.2142"
+       inkscape:transform-center-y="-47.909545" />
+    <path
+       inkscape:transform-center-y="-286.54321"
+       inkscape:transform-center-x="36.346901"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4898"
+       d="m -5377.4883,6185.5038 0,612.796 0,255.2804 -110.1121,-255.2804 z"
+       style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       inkscape:transform-center-y="-99.551859"
+       inkscape:transform-center-x="-83.964459"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4900"
+       d="m -5000.1851,6560.901 -256.7485,354.3441 -119.6272,72.4442 0,-227.267 z"
+       style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       inkscape:transform-center-y="-47.909545"
+       inkscape:transform-center-x="128.2142"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4902"
+       d="m -5935.5579,6784.2566 558.9971,269.4025 -6.5198,-183.7942 z"
+       style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -5761.8645,6560.901 267.7964,354.3441 117.5073,72.4442 0,-227.267 z"
+       id="path4904"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="83.964459"
+       inkscape:transform-center-y="-99.551859" />
+    <path
+       style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -5377.4883,6185.5038 0,612.796 0.9275,255.3593 109.1846,-255.3593 z"
+       id="path4906"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-36.3469"
+       inkscape:transform-center-y="-286.54321" />
+    <text
+       xml:space="preserve"
+       style="font-size:284.87951659999998810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+       x="-5931.4561"
+       y="7323.9702"
+       id="text4910"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4912"
+         x="-5931.4561"
+         y="7323.9702">Tequila</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4914"
+       y="7323.9702"
+       x="-5061.0752"
+       style="font-size:284.87951659999998810px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+       xml:space="preserve"><tspan
+         y="7323.9702"
+         x="-5061.0752"
+         id="tspan4916"
+         sodipodi:role="line">JS</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4920"
+       sodipodi:cx="12.503053"
+       sodipodi:cy="20894.707"
+       sodipodi:rx="470.9483"
+       sodipodi:ry="470.9483"
+       d="m 483.45136,20894.707 a 470.9483,470.9483 0 1 1 -941.89661,0 470.9483,470.9483 0 1 1 941.89661,0 z"
+       transform="matrix(1.5221239,0,0,1.5221239,-8.62736,-24678.453)"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       inkscape:transform-center-y="-47.909545"
+       inkscape:transform-center-x="-128.2142"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4924"
+       d="M 544.93688,7035.6851 179.20124,7214.7864 -5.13224,7305.0876 -7.54043,7121.2934 z"
+       style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -6.05975,6436.9323 0,612.796 0,255.2804 -110.11213,-255.2804 z"
+       id="path4926"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="36.346901"
+       inkscape:transform-center-y="-286.54321"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 371.24347,6812.3295 -256.74846,354.3441 -119.62725,72.4442 0,-227.267 z"
+       id="path4928"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-83.964459"
+       inkscape:transform-center-y="-99.551859"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -564.12934,7035.6851 558.9971,269.4025 -6.5198,-183.7942 z"
+       id="path4930"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="128.2142"
+       inkscape:transform-center-y="-47.909545"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       inkscape:transform-center-y="-99.551859"
+       inkscape:transform-center-x="83.964459"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4932"
+       d="m -390.43593,6812.3295 267.79637,354.3441 117.50732,72.4442 0,-227.267 z"
+       style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       inkscape:transform-center-y="-286.54321"
+       inkscape:transform-center-x="-36.3469"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4934"
+       d="m -6.05975,6436.9323 0,612.796 0.92751,255.3593 109.18463,-255.3593 z"
+       style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4938"
+       y="7575.3984"
+       x="-560.02765"
+       style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+       xml:space="preserve"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001"><tspan
+         y="7575.3984"
+         x="-560.02765"
+         id="tspan4940"
+         sodipodi:role="line">Tequila</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+       x="310.3533"
+       y="7575.3984"
+       id="text4942"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001"><tspan
+         sodipodi:role="line"
+         id="tspan4944"
+         x="310.3533"
+         y="7575.3984">JS</tspan></text>
+    <path
+       inkscape:export-ydpi="50.220001"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       transform="matrix(1.5221239,0,0,1.5221239,-2288.6274,-24804.167)"
+       d="m 483.45136,20894.707 a 470.9483,470.9483 0 1 1 -941.89661,0 470.9483,470.9483 0 1 1 941.89661,0 z"
+       sodipodi:ry="470.9483"
+       sodipodi:rx="470.9483"
+       sodipodi:cy="20894.707"
+       sodipodi:cx="12.503053"
+       id="path4948"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -1735.0632,6909.9709 -365.7356,179.1013 -184.3335,90.3012 -2.4082,-183.7942 z"
+       id="path4952"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-128.2142"
+       inkscape:transform-center-y="-47.909545"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       inkscape:transform-center-y="-286.54321"
+       inkscape:transform-center-x="36.346901"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4954"
+       d="m -2286.0598,6311.2181 0,612.796 0,255.2804 -110.1121,-255.2804 z"
+       style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       inkscape:transform-center-y="-99.551859"
+       inkscape:transform-center-x="-83.964459"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4956"
+       d="m -1908.7566,6686.6153 -256.7484,354.3441 -119.6273,72.4442 0,-227.267 z"
+       style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       inkscape:transform-center-y="-47.909545"
+       inkscape:transform-center-x="128.2142"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4958"
+       d="m -2844.1294,6909.9709 558.9971,269.4025 -6.5198,-183.7942 z"
+       style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -2670.436,6686.6153 267.7964,354.3441 117.5073,72.4442 0,-227.267 z"
+       id="path4960"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="83.964459"
+       inkscape:transform-center-y="-99.551859"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <path
+       style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -2286.0598,6311.2181 0,612.796 0.9275,255.3593 109.1846,-255.3593 z"
+       id="path4962"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-36.3469"
+       inkscape:transform-center-y="-286.54321"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001" />
+    <text
+       xml:space="preserve"
+       style="font-size:284.87951659999998810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+       x="-2840.0276"
+       y="7449.6846"
+       id="text4966"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001"><tspan
+         sodipodi:role="line"
+         id="tspan4968"
+         x="-2840.0276"
+         y="7449.6846">Tequila</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4970"
+       y="7449.6846"
+       x="-1969.6467"
+       style="font-size:284.87951659999998810px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+       xml:space="preserve"
+       inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_circleCyan_black.png"
+       inkscape:export-xdpi="50.220001"
+       inkscape:export-ydpi="50.220001"><tspan
+         y="7449.6846"
+         x="-1969.6467"
+         id="tspan4972"
+         sodipodi:role="line">JS</tspan></text>
+    <rect
+       style="fill:#006064;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.721457px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3867-5"
+       width="3232.0173"
+       height="404.061"
+       x="-309.21722"
+       y="4321.7412" />
+    <rect
+       y="4806.6143"
+       x="-305.02698"
+       height="404.061"
+       width="3232.1189"
+       id="rect3869-7"
+       style="fill:#00bcd4;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.72149992px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#00838f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.72414613px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3871-5"
+       width="3238.4075"
+       height="404.061"
+       x="-309.21722"
+       y="5291.4873" />
+    <g
+       transform="translate(-4706.9643,-14696.56)"
+       id="g4098-3-1"
+       inkscape:transform-center-x="394.28571"
+       inkscape:transform-center-y="601.42465">
+      <g
+         style="fill:#000000"
+         id="g4100-6-6"
+         transform="matrix(2.1625257,0,0,2.1625257,8718.2645,6420.7147)">
+        <path
+           inkscape:transform-center-y="-47.909545"
+           inkscape:transform-center-x="-128.2142"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4102-6-3"
+           d="m -2602.6029,6193.7331 -169.1243,82.8204 -85.2399,41.7573 -1.1136,-84.9905 z"
+           style="fill:#216778;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2857.396,5916.8565 0,283.3705 0,118.0473 -50.9183,-118.0473 z"
+           id="path4104-7-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="36.346901"
+           inkscape:transform-center-y="-286.54321" />
+        <path
+           style="fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -2682.9226,6090.4485 -118.7262,163.8566 -55.3183,33.4998 0,-105.0933 z"
+           id="path4107-8-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-x="-83.964459"
+           inkscape:transform-center-y="-99.551859" />
+        <path
+           style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m -3115.4598,6193.7331 258.4927,124.5777 -3.0149,-84.9905 z"
+           id="path4109-1-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:transform-center-x="128.2142"
+           inkscape:transform-center-y="-47.909545" />
+        <path
+           inkscape:transform-center-y="-99.551859"
+           inkscape:transform-center-x="83.964459"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4112-0-7"
+           d="m -3035.1401,6090.4485 123.835,163.8566 54.338,33.4998 0,-105.0933 z"
+           style="fill:#216778;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:transform-center-y="-286.54321"
+           inkscape:transform-center-x="-36.3469"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4114-5-0"
+           d="m -2857.396,5916.8565 0,283.3705 0.4289,118.0838 50.4894,-118.0838 z"
+           style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+      <g
+         id="g4116-1-7"
+         transform="matrix(1.0991281,0,0,1.0991281,7257.9079,15937.262)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4118-2-2"
+           y="4018.8887"
+           x="-4797.2603"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5fbcd3;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+           xml:space="preserve"><tspan
+             y="4018.8887"
+             x="-4797.2603"
+             id="tspan4120-5-1"
+             sodipodi:role="line">Tequila</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:259.18682861px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#164450;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+           x="-4005.3772"
+           y="4018.8887"
+           id="text4122-9-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4124-8-7"
+             x="-4005.3772"
+             y="4018.8887">JS</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:224.84968567px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-134.55965"
+       y="5098.418"
+       id="text5145"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5147"
+         x="-134.55965"
+         y="5098.418"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">00bcd4 cyan </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:231.19633484px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-149.45503"
+       y="5593.394"
+       id="text5149"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5151"
+         x="-149.45503"
+         y="5593.394">00838f cyan darken-3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:214.1534729px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-108.6227"
+       y="4603.0015"
+       id="text3899"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3901"
+         x="-108.6227"
+         y="4603.0015">006064  cyan darken-4</tspan></text>
+    <rect
+       style="fill:#ffd740;fill-opacity:1"
+       id="rect3924"
+       width="2408.2036"
+       height="48.487312"
+       x="-1018.2338"
+       y="7711.2881" />
+    <g
+       id="g4056"
+       transform="translate(-76.350383,0)">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3926"
+         sodipodi:cx="12.503053"
+         sodipodi:cy="20894.707"
+         sodipodi:rx="470.9483"
+         sodipodi:ry="470.9483"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         transform="matrix(1.5221239,0,0,1.5221239,-5103.2709,-22070.267)"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         inkscape:transform-center-y="-47.909545"
+         inkscape:transform-center-x="-128.2142"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3928"
+         d="m -4549.7067,9643.871 -365.7356,179.102 -184.3335,90.301 -2.4082,-183.794 z"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -5100.7033,9045.1194 0,612.7956 0,255.28 -110.1121,-255.28 z"
+         id="path3930"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="36.346901"
+         inkscape:transform-center-y="-286.54321"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -4723.4001,9420.5164 -256.7485,354.3436 -119.6272,72.444 0,-227.267 z"
+         id="path3932"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-83.964459"
+         inkscape:transform-center-y="-99.551859"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -5658.7729,9643.871 558.9971,269.403 -6.5198,-183.794 z"
+         id="path3934"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="128.2142"
+         inkscape:transform-center-y="-47.909545"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         inkscape:transform-center-y="-99.551859"
+         inkscape:transform-center-x="83.964459"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3936"
+         d="m -5485.0795,9420.5164 267.7964,354.3436 117.5073,72.444 0,-227.267 z"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         inkscape:transform-center-y="-286.54321"
+         inkscape:transform-center-x="-36.3469"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3938"
+         d="m -5100.7033,9045.1194 0,612.7956 0.9275,255.359 109.1846,-255.359 z"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3940"
+         y="10183.585"
+         x="-5654.6714"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+         xml:space="preserve"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001"><tspan
+           y="10183.585"
+           x="-5654.6714"
+           id="tspan3942"
+           sodipodi:role="line">Tequila</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+         x="-4784.2905"
+         y="10183.585"
+         id="text3944"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001"><tspan
+           sodipodi:role="line"
+           id="tspan3946"
+           x="-4784.2905"
+           y="10183.585">JS</tspan></text>
+    </g>
+    <rect
+       y="10344.016"
+       x="-6330.02"
+       height="52.517899"
+       width="2338.8599"
+       id="rect3948"
+       style="fill:#ffab00;fill-opacity:1" />
+    <g
+       id="g4069"
+       transform="translate(-63.203156,0)">
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         transform="matrix(1.5221239,0,0,1.5221239,-2192.0658,-22091.975)"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         sodipodi:ry="470.9483"
+         sodipodi:rx="470.9483"
+         sodipodi:cy="20894.707"
+         sodipodi:cx="12.503053"
+         id="path3950"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -1638.5016,9622.1631 -365.7356,179.102 -184.3335,90.301 -2.4082,-183.794 z"
+         id="path3952"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-128.2142"
+         inkscape:transform-center-y="-47.909545" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-286.54321"
+         inkscape:transform-center-x="36.346901"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3954"
+         d="m -2189.4982,9023.4109 0,612.7962 0,255.28 -110.1121,-255.28 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-99.551859"
+         inkscape:transform-center-x="-83.964459"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3956"
+         d="m -1812.195,9398.8079 -256.7485,354.3442 -119.6272,72.444 0,-227.267 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-47.909545"
+         inkscape:transform-center-x="128.2142"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3958"
+         d="m -2747.5678,9622.1631 558.9971,269.403 -6.5198,-183.794 z"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -2573.8744,9398.8079 267.7964,354.3442 117.5073,72.444 0,-227.267 z"
+         id="path3960"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="83.964459"
+         inkscape:transform-center-y="-99.551859" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -2189.4982,9023.4109 0,612.7962 0.9275,255.359 109.1846,-255.359 z"
+         id="path3962"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-36.3469"
+         inkscape:transform-center-y="-286.54321" />
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         xml:space="preserve"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+         x="-2743.4661"
+         y="10161.877"
+         id="text3964"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3966"
+           x="-2743.4661"
+           y="10161.877">Tequila</tspan></text>
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         sodipodi:linespacing="125%"
+         id="text3968"
+         y="10161.877"
+         x="-1873.0852"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+         xml:space="preserve"><tspan
+           y="10161.877"
+           x="-1873.0852"
+           id="tspan3970"
+           sodipodi:role="line">JS</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff3d00;fill-opacity:1"
+       id="rect3972"
+       width="2338.8599"
+       height="52.517899"
+       x="-3405.6677"
+       y="10320.503" />
+    <g
+       id="g4082"
+       transform="translate(-2942.8636,2173.8483)">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4034"
+         sodipodi:cx="12.503053"
+         sodipodi:cy="20894.707"
+         sodipodi:rx="470.9483"
+         sodipodi:ry="470.9483"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         transform="matrix(1.5221239,0,0,1.5221239,636.36132,-22091.975)"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         inkscape:transform-center-y="-47.909545"
+         inkscape:transform-center-x="-128.2142"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4036"
+         d="m 1189.9255,9622.1631 -365.73558,179.102 -184.3335,90.301 -2.4082,-183.794 z"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 638.92892,9023.4109 0,612.7962 0,255.28 -110.1121,-255.28 z"
+         id="path4038"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="36.346901"
+         inkscape:transform-center-y="-286.54321"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1016.2321,9398.8079 -256.74848,354.3442 -119.6272,72.444 0,-227.267 z"
+         id="path4040"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-83.964459"
+         inkscape:transform-center-y="-99.551859"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 80.859324,9622.1631 558.997096,269.403 -6.5198,-183.794 z"
+         id="path4042"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="128.2142"
+         inkscape:transform-center-y="-47.909545"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         inkscape:transform-center-y="-99.551859"
+         inkscape:transform-center-x="83.964459"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4044"
+         d="m 254.55272,9398.8079 267.7964,354.3442 117.5073,72.444 0,-227.267 z"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <path
+         inkscape:transform-center-y="-286.54321"
+         inkscape:transform-center-x="-36.3469"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4046"
+         d="m 638.92892,9023.4109 0,612.7962 0.9275,255.359 109.1846,-255.359 z"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4048"
+         y="10161.877"
+         x="84.96106"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+         xml:space="preserve"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001"><tspan
+           y="10161.877"
+           x="84.96106"
+           id="tspan4050"
+           sodipodi:role="line">Tequila</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+         x="955.34192"
+         y="10161.877"
+         id="text4052"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-ydpi="50.220001"><tspan
+           sodipodi:role="line"
+           id="tspan4054"
+           x="955.34192"
+           y="10161.877">JS</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff1744;fill-opacity:1"
+       id="rect4010-9"
+       width="2338.8599"
+       height="43.764912"
+       x="-3456.9009"
+       y="12480.382" />
+    <g
+       transform="translate(-74.030311,-8.0812531)"
+       id="g4095">
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         transform="matrix(1.5221239,0,0,1.5221239,636.36132,-22091.975)"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         sodipodi:ry="470.9483"
+         sodipodi:rx="470.9483"
+         sodipodi:cy="20894.707"
+         sodipodi:cx="12.503053"
+         id="path4097"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1189.9255,9622.1631 -365.73558,179.102 -184.3335,90.301 -2.4082,-183.794 z"
+         id="path4099"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-128.2142"
+         inkscape:transform-center-y="-47.909545" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-286.54321"
+         inkscape:transform-center-x="36.346901"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4101"
+         d="m 638.92892,9023.4109 0,612.7962 0,255.28 -110.1121,-255.28 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-99.551859"
+         inkscape:transform-center-x="-83.964459"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4103"
+         d="m 1016.2321,9398.8079 -256.74848,354.3442 -119.6272,72.444 0,-227.267 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-47.909545"
+         inkscape:transform-center-x="128.2142"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4105"
+         d="m 80.859324,9622.1631 558.997096,269.403 -6.5198,-183.794 z"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 254.55272,9398.8079 267.7964,354.3442 117.5073,72.444 0,-227.267 z"
+         id="path4108"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="83.964459"
+         inkscape:transform-center-y="-99.551859" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 638.92892,9023.4109 0,612.7962 0.9275,255.359 109.1846,-255.359 z"
+         id="path4110"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-36.3469"
+         inkscape:transform-center-y="-286.54321" />
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         xml:space="preserve"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+         x="84.96106"
+         y="10161.877"
+         id="text4112"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4114"
+           x="84.96106"
+           y="10161.877">Tequila</tspan></text>
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         sodipodi:linespacing="125%"
+         id="text4116"
+         y="10161.877"
+         x="955.34192"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+         xml:space="preserve"><tspan
+           y="10161.877"
+           x="955.34192"
+           id="tspan4118"
+           sodipodi:role="line">JS</tspan></text>
+    </g>
+    <rect
+       y="10298.452"
+       x="-588.06769"
+       height="43.764912"
+       width="2338.8599"
+       id="rect4120"
+       style="fill:#64dd17;fill-opacity:1" />
+    <g
+       transform="translate(-76.350383,2190.0107)"
+       id="g4122">
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         transform="matrix(1.5221239,0,0,1.5221239,-5103.2709,-22070.267)"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         sodipodi:ry="470.9483"
+         sodipodi:rx="470.9483"
+         sodipodi:cy="20894.707"
+         sodipodi:cx="12.503053"
+         id="path4124"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -4549.7067,9643.871 -365.7356,179.102 -184.3335,90.301 -2.4082,-183.794 z"
+         id="path4126"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-128.2142"
+         inkscape:transform-center-y="-47.909545" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-286.54321"
+         inkscape:transform-center-x="36.346901"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4128"
+         d="m -5100.7033,9045.1194 0,612.7956 0,255.28 -110.1121,-255.28 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-99.551859"
+         inkscape:transform-center-x="-83.964459"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4130"
+         d="m -4723.4001,9420.5164 -256.7485,354.3436 -119.6272,72.444 0,-227.267 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-47.909545"
+         inkscape:transform-center-x="128.2142"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4132"
+         d="m -5658.7729,9643.871 558.9971,269.403 -6.5198,-183.794 z"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -5485.0795,9420.5164 267.7964,354.3436 117.5073,72.444 0,-227.267 z"
+         id="path4134"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="83.964459"
+         inkscape:transform-center-y="-99.551859" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -5100.7033,9045.1194 0,612.7956 0.9275,255.359 109.1846,-255.359 z"
+         id="path4136"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-36.3469"
+         inkscape:transform-center-y="-286.54321" />
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         xml:space="preserve"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+         x="-5654.6714"
+         y="10183.585"
+         id="text4138"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4140"
+           x="-5654.6714"
+           y="10183.585">Tequila</tspan></text>
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         sodipodi:linespacing="125%"
+         id="text4142"
+         y="10183.585"
+         x="-4784.2905"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+         xml:space="preserve"><tspan
+           y="10183.585"
+           x="-4784.2905"
+           id="tspan4144"
+           sodipodi:role="line">JS</tspan></text>
+    </g>
+    <rect
+       style="fill:#304ffe;fill-opacity:1"
+       id="rect4146"
+       width="2338.8599"
+       height="52.517899"
+       x="-6330.02"
+       y="12534.026" />
+    <g
+       transform="translate(-8.894926,2193.0831)"
+       id="g4095-2">
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         transform="matrix(1.5221239,0,0,1.5221239,636.36132,-22091.975)"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         sodipodi:ry="470.9483"
+         sodipodi:rx="470.9483"
+         sodipodi:cy="20894.707"
+         sodipodi:cx="12.503053"
+         id="path4097-0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1189.9255,9622.1631 -365.73558,179.102 -184.3335,90.301 -2.4082,-183.794 z"
+         id="path4099-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-128.2142"
+         inkscape:transform-center-y="-47.909545" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-286.54321"
+         inkscape:transform-center-x="36.346901"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4101-2"
+         d="m 638.92892,9023.4109 0,612.7962 0,255.28 -110.1121,-255.28 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-99.551859"
+         inkscape:transform-center-x="-83.964459"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4103-4"
+         d="m 1016.2321,9398.8079 -256.74848,354.3442 -119.6272,72.444 0,-227.267 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-47.909545"
+         inkscape:transform-center-x="128.2142"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4105-7"
+         d="m 80.859324,9622.1631 558.997096,269.403 -6.5198,-183.794 z"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 254.55272,9398.8079 267.7964,354.3442 117.5073,72.444 0,-227.267 z"
+         id="path4108-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="83.964459"
+         inkscape:transform-center-y="-99.551859" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 638.92892,9023.4109 0,612.7962 0.9275,255.359 109.1846,-255.359 z"
+         id="path4110-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-36.3469"
+         inkscape:transform-center-y="-286.54321" />
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         xml:space="preserve"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+         x="84.96106"
+         y="10161.877"
+         id="text4112-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4114-3"
+           x="84.96106"
+           y="10161.877">Tequila</tspan></text>
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         sodipodi:linespacing="125%"
+         id="text4116-9"
+         y="10161.877"
+         x="955.34192"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+         xml:space="preserve"><tspan
+           y="10161.877"
+           x="955.34192"
+           id="tspan4118-2"
+           sodipodi:role="line">JS</tspan></text>
+    </g>
+    <rect
+       y="12499.616"
+       x="-522.93231"
+       height="43.764912"
+       width="2338.8599"
+       id="rect4120-3"
+       style="fill:#f50057;fill-opacity:1" />
+    <g
+       id="g4069-2"
+       transform="translate(88.079817,7397.3891)">
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         transform="matrix(1.5221239,0,0,1.5221239,-2192.0658,-22091.975)"
+         d="m 483.45136,20894.707 c 0,260.098 -210.85074,470.948 -470.948307,470.948 -260.097563,0 -470.948303,-210.85 -470.948303,-470.948 0,-260.098 210.85074,-470.948 470.948303,-470.948 260.097567,0 470.948307,210.85 470.948307,470.948 z"
+         sodipodi:ry="470.9483"
+         sodipodi:rx="470.9483"
+         sodipodi:cy="20894.707"
+         sodipodi:cx="12.503053"
+         id="path3950-7"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -1638.5016,9622.1631 -365.7356,179.102 -184.3335,90.301 -2.4082,-183.794 z"
+         id="path3952-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-128.2142"
+         inkscape:transform-center-y="-47.909545" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-286.54321"
+         inkscape:transform-center-x="36.346901"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3954-1"
+         d="m -2189.4982,9023.4109 0,612.7962 0,255.28 -110.1121,-255.28 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-99.551859"
+         inkscape:transform-center-x="-83.964459"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3956-7"
+         d="m -1812.195,9398.8079 -256.7485,354.3442 -119.6272,72.444 0,-227.267 z"
+         style="fill:#006064;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         inkscape:transform-center-y="-47.909545"
+         inkscape:transform-center-x="128.2142"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3958-0"
+         d="m -2747.5678,9622.1631 558.9971,269.403 -6.5198,-183.794 z"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00838f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -2573.8744,9398.8079 267.7964,354.3442 117.5073,72.444 0,-227.267 z"
+         id="path3960-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="83.964459"
+         inkscape:transform-center-y="-99.551859" />
+      <path
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         style="fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -2189.4982,9023.4109 0,612.7962 0.9275,255.359 109.1846,-255.359 z"
+         id="path3962-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="-36.3469"
+         inkscape:transform-center-y="-286.54321" />
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         xml:space="preserve"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00bcd4;fill-opacity:1;stroke:none;font-family:Brie Light;-inkscape-font-specification:'Brie Light,'"
+         x="-2743.4661"
+         y="10161.877"
+         id="text3964-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3966-3"
+           x="-2743.4661"
+           y="10161.877">Tequila</tspan></text>
+      <text
+         inkscape:export-ydpi="50.220001"
+         inkscape:export-xdpi="50.220001"
+         inkscape:export-filename="/home/amartinez/Desktop/tequila/logo_cyan.png"
+         sodipodi:linespacing="125%"
+         id="text3968-5"
+         y="10161.877"
+         x="-1873.0852"
+         style="font-size:284.8795166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006064;fill-opacity:1;stroke:none;font-family:Brie Medium;-inkscape-font-specification:Brie Medium"
+         xml:space="preserve"><tspan
+           y="10161.877"
+           x="-1873.0852"
+           id="tspan3970-0"
+           sodipodi:role="line">JS</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff3d00;fill-opacity:1"
+       id="rect3972-8"
+       width="2338.8599"
+       height="52.517899"
+       x="-3254.3848"
+       y="17717.893" />
+    <text
+       xml:space="preserve"
+       style="font-size:224.84968567px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3576.9084"
+       y="5073.313"
+       id="text5145-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5147-4"
+         x="3576.9084"
+         y="5073.313"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold" /></text>
+    <rect
+       style="fill:#f50057;fill-opacity:1"
+       id="rect4009"
+       width="3227.7939"
+       height="472.06958"
+       x="4713.6982"
+       y="4765.8887" />
+    <text
+       xml:space="preserve"
+       style="font-size:224.84968567px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="4918.3906"
+       y="5089.4761"
+       id="text5145-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5147-5"
+         x="4918.3906"
+         y="5089.4761"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">f50057 pink accent-3 </tspan></text>
+    <rect
+       y="5412.3862"
+       x="4713.6982"
+       height="472.06958"
+       width="3227.7939"
+       id="rect3230"
+       style="fill:#c2185b;fill-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3232"
+       y="5735.9736"
+       x="4918.3906"
+       style="font-size:224.84968567px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="5735.9736"
+         x="4918.3906"
+         id="tspan3234"
+         sodipodi:role="line">c2185b pink darken-2 </tspan></text>
+    <rect
+       style="fill:#880e4f;fill-opacity:1"
+       id="rect3236"
+       width="3227.7939"
+       height="472.06958"
+       x="4713.6982"
+       y="4127.4722" />
+    <text
+       xml:space="preserve"
+       style="font-size:224.84968567px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="4918.3906"
+       y="4451.0596"
+       id="text3238"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3240"
+         x="4918.3906"
+         y="4451.0596"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">880e4f pink darken-4 </tspan></text>
+  </g>
+</svg>
